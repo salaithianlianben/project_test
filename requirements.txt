@@ -1,0 +1,14 @@
+langchain==0.0.305
+pinecone-client==2.2.1
+fastapi==0.103.2
+openai==0.28.1
+uvicorn==0.23.2
+pydantic==1.10.9
+python-dotenv
+mangum
+tiktoken==0.5.1
+urllib3<2
+boto3
+torch
+torchvision
+spacy
