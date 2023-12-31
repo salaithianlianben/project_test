@@ -12,3 +12,4 @@ boto3
 torch
 torchvision
 spacy
+transformers
